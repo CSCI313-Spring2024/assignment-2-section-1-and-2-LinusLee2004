@@ -1,0 +1,87 @@
+body {
+    background-color: navy;
+}
+
+div {
+    background-color: cornflowerblue;
+    color: darkblue;
+    border-radius: 15px;
+    padding: 15px;
+    text-align: center;
+}
+
+a {
+    color: navy;
+}
+
+footer {
+    color: #87ceeb;
+}
+/* Navbar background */
+nav {
+    background-color: navy;
+}
+
+/* Container background */
+.custom-container {
+    background-color: cornflowerblue;
+}
+
+/* Brand */
+.custom-brand {
+    color: powderblue;
+    font-weight: bold;
+}
+
+/* Toggler button */
+.custom-toggler {
+    background-color: deepskyblue;
+    border: none;
+}
+
+/* Collapsed section */
+.custom-collapse {
+    background-color: #004080;
+}
+
+/* Navbar links */
+.custom-link {
+    color: #87ceeb; /* Sky Blue */
+}
+
+.custom-link:hover {
+    color: #1e90ff; /* Dodger Blue */
+}
+
+/* Dropdown */
+.custom-dropdown {
+    color: #b0e0e6; /* Powder Blue */
+}
+
+.custom-dropdown-menu {
+    background-color: #4682b4; /* Steel Blue */
+}
+
+.custom-dropdown-item {
+    color: #e0ffff; /* Light Cyan */
+}
+
+.custom-dropdown-item:hover {
+    background-color: #5f9ea0; /* Cadet Blue */
+}
+
+/* Button */
+.custom-btn {
+    background-color: #4169e1; /* Royal Blue */
+    color: white;
+}
+
+.custom-btn:hover {
+    background-color: #0000ff; /* Pure Blue */
+}
+
+/* Search bar */
+.custom-search {
+    background-color: #b0c4de; /* Light Steel Blue */
+    color: black;
+}
